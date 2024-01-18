@@ -1,3 +1,3 @@
 # apnacollege-demo
 exploring github
-Author-Aadarsh Jaiswal
+Author-Aadarsh (Apnademo)
